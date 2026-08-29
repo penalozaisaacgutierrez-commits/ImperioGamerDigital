@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" role="img" aria-labelledby="t d">
+  <title id="t">ImperioGamerDigital</title>
+  <desc id="d">Sello de ImperioGamerDigital, tienda gamer Medellín con sede en Gaira, Santa Marta</desc>
+  <rect width="80" height="80" fill="#0b0d12"/>
+  <rect x="4" y="4" width="72" height="72" fill="none" stroke="#c9a45c" stroke-width="1.2"/>
+  <rect x="8" y="8" width="64" height="64" fill="none" stroke="#c9a45c" stroke-width="0.4" opacity="0.55"/>
+  <text x="40" y="34" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="600" fill="#c9a45c" letter-spacing="1.5">IG</text>
+  <line x1="20" y1="42" x2="60" y2="42" stroke="#c9a45c" stroke-width="0.8"/>
+  <text x="40" y="54" text-anchor="middle" font-family="Georgia, serif" font-size="5" fill="#f6f2ea" letter-spacing="1.6">IMPERIO</text>
+  <text x="40" y="62" text-anchor="middle" font-family="Georgia, serif" font-size="4" fill="#c9a45c" letter-spacing="1.1">GAMER DIGITAL</text>
+</svg>
